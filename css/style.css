@@ -1,0 +1,22 @@
+.acc{
+    width: 500px;
+    height: auto;
+    margin: 50px auto; 
+}
+
+button {
+    width: 500px;
+    padding: 10px;
+    cursor: pointer;
+    background: #8876d3;
+    border-radius: 10px;
+}
+
+.tab {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#tab1, #tab2, #tab3{
+    display: none;
+}
